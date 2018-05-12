@@ -1,0 +1,43 @@
+_repo: Jonathan-and-His-ContinentRambles-Through-American-Society_34679
+_version: 0.1.0
+alternative_title: Jonathan et son continent. English
+contributor:
+  translator:
+    agent_name: Blouët, Mary Bartlett
+    aliases:
+    - Blouet, Mary Bartlett
+    - Blouët, Madame Paul
+    gutenberg_agent_id: '37166'
+    url: http://www.gutenberg.org/2009/agents/37166
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Allyn, Jack
+    gutenberg_agent_id: '37165'
+    url: http://www.gutenberg.org/2009/agents/37165
+  - agent_name: O'Rell, Max
+    aliases:
+    - Blouët, Léon Paul
+    - Blouët, Paul
+    - Blouet, Leon Paul
+    birthdate: 1848
+    deathdate: 1903
+    gutenberg_agent_id: '35752'
+    url: http://www.gutenberg.org/2009/agents/35752
+    wikipedia: http://en.wikipedia.org/wiki/Max_O%27Rell
+description: ''
+gutenberg_issued: '2010-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs'
+- !lcc 'E151'
+title: 'Jonathan and His Continent: Rambles Through American Society'
+url: http://www.gutenberg.org/ebooks/34679
